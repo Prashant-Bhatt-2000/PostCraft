@@ -17,7 +17,7 @@ The Blog app allows users to create, view, and manage blog posts. Users can writ
 
 #### Usage
 
-    1. Clone the repository: `git clone <repository_url>`
+    1. Clone the repository: `git clone https://github.com/Prashant-Bhatt-2000/PostCraft.git`
     2. Install the required packages: `pip install -r requirements.txt`
     3. Set up the database: `python manage.py makemigrations` `python manage.py migrate`
     4. Start the development server: `python manage.py runserver`
