@@ -21,7 +21,7 @@ The Blog app allows users to create, view, and manage blog posts. Users can writ
     2. Install the required packages: `pip install -r requirements.txt`
     3. Set up the database: `python manage.py makemigrations` `python manage.py migrate`
     4. Start the development server: `python manage.py runserver`
-    5. Access the app at `http://127.0.0.1:8000/blog/`
+    5. Access the app at `http://127.0.0.1:8000/`
 
 ### Accounts App
 
